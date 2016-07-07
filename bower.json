@@ -1,0 +1,20 @@
+{
+  "name": "infositetest",
+  "homepage": "https://github.com/ayhanhur/infositetest",
+  "description": "",
+  "main": "",
+  "authors": [
+    "ayhan"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.0.0"
+  }
+}
